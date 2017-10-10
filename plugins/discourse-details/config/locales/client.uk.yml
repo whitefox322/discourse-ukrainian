@@ -1,0 +1,7 @@
+en:
+  js:
+    details:
+      title: Приховати деталізацію
+    composer:
+      details_title: Підсумок
+      details_text: "Даний текст буде приховано"

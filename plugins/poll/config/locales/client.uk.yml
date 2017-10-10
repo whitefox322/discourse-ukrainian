@@ -1,0 +1,84 @@
+# encoding: utf-8
+#
+# Never edit this file. It will be overwritten when translations are pulled from Transifex.
+#
+# To work with us on translations, join this project:
+# https://www.transifex.com/projects/p/discourse-org/
+
+uk:
+  js:
+    poll:
+      total_votes:
+        one: "голос"
+        few: "голосів"
+        other: "голоси"
+
+      average_rating: "Середній рейтинг: <strong>%{average}</strong>."
+
+      public:
+        title: "Голоси публічні."
+
+      multiple:
+        help:
+          at_least_min_options:
+            one: "Виберіть хоча б <strong>1</strong> варіант"
+            few: "Виберіть хоча б <strong>%{count}</strong> варіантів"
+            many: "Виберіть хоча б <strong>%{count}</strong> варіантів"
+            other: "Виберіть хоча б <strong>%{count}</strong> варіанти"
+          up_to_max_options:
+            one: "Виберіть не більше <strong>1</strong> варіанту"
+            few: "Виберіть не більше <strong>%{count}</strong> варіантів"
+            many: "Виберіть не більше <strong>%{count}</strong> варіантів"
+            other: "Виберіть не більше <strong>%{count}</strong> варіантів"
+          x_options:
+            one: "Виберіть <strong>1</strong> варіант"
+            few: "Виберіть <strong>%{count}</strong> варіантів"
+            many: "Виберіть <strong>%{count}</strong> варіантів"
+            other: "Виберіть <strong>%{count}</strong> варіанти"
+          between_min_and_max_options: "Виберіть від <strong>%{min}</strong> до <strong>%{max}</strong> варіантів"
+
+      cast-votes:
+        title: "Проголосуйте"
+        label: "Проголосувати!"
+
+      show-results:
+        title: "Показати результати"
+        label: "Показати результати"
+
+      hide-results:
+        title: "Повернутись до опитування"
+        label: "Приховати результати"
+
+      open:
+        title: "Почати знову приймати голоси"
+        label: "Відкрити"
+        confirm: "Ви впевнені, що бажаєте відкрити дане опитування і знову приймати голоси?"
+
+      close:
+        title: "Закрити дане опитування, не приймати голоси"
+        label: "Закрити"
+        confirm: "Ви впевнені, що бажаєте закрити дане опитування і більше не приймати голоси?"
+
+      error_while_toggling_status: "Сталась помилка при зміні статусу опитування."
+      error_while_casting_votes: "Сталась помилка в процесі обробки вашого голосу."
+      error_while_fetching_voters: "В процесі отримання списку опитаних сталась помилка."
+
+      ui_builder:
+        title: Створити опитування
+        insert: Вставити опитування в повідомлення
+        help:
+          options_count: Вкажіть хоча б 2 варіанти відповіді
+          invalid_values: Мінімальне значення повине бути меншим максимального значення.
+        poll_type:
+          label: Тип опитування
+          regular: Вибір одного варіанту зі списку
+          multiple: Вибір кількох варіантів зі списку
+          number: Шкала із чисел
+        poll_config:
+          max: Макс
+          min: Мін
+          step: Крок
+        poll_public:
+          label: Показувати, хто проголосував (не відмічайте прапорець, щоб опитування було анонімним)
+        poll_options:
+          label: Введіть варіанти відповідей, по одному на строку
