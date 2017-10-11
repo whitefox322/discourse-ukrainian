@@ -2326,9 +2326,9 @@ uk:
           one: "1 новий"
           other: "{{count}} нових"
         lower_title: "новий"
-        title: "Новий"
+        title: "Нові"
         title_with_count:
-          one: "Новий (1)"
+          one: "Нові (1)"
           other: "Нових ({{count}})"
         help: "теми створені в останні декілька днів"
       posted:
@@ -2683,7 +2683,7 @@ uk:
         title: "Групи"
         edit: "Редагувати групи"
         refresh: "Оновити"
-        new: "Новий"
+        new: "Нові"
         selector_placeholder: "введіть ім'я користувача"
         about: "Edit your group membership and names here"
         group_members: "Учасники групи"
@@ -2883,7 +2883,7 @@ uk:
         long_title: "Стилі та заголовки"
         preview: "попередній огляд"
         save: "Зберегти"
-        new: "Новий"
+        new: "Нові"
         new_style: "Новий стиль"
         import: "Імпорт"
         delete: "Видалити"
@@ -3421,7 +3421,7 @@ uk:
       badges:
         title: Значки
         new_badge: Новий значок
-        new: Новий
+        new: Нові
         name: Ім'я
         badge: Значок
         display_name: Ім'я, що відображається
