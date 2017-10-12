@@ -175,7 +175,7 @@ uk:
           - https://en.wikipedia.org/wiki/Death_by_coconut
           - https://en.wikipedia.org/wiki/Calculator_spelling
         reply: |-
-          Круто! Це буде працювати для більшості <img src="%{base_uri}/images/font-awesome-link.png" width="16" height="16"> посилань. Пам'ятайте, посилання повинне бути на одній лінії, нічого позаду чи попереду не повинно знаходитися.
+          Круто! Це буде працювати для більшості <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-link.png" width="16" height="16"> посилань. Пам'ятайте, посилання повинне бути на одній лінії, нічого позаду чи попереду не повинно знаходитися.
         not_found: |-
           Вибачте, я не знайшов посилання у вашій відповіді! :cry:
 
@@ -187,7 +187,7 @@ uk:
         instructions: |-
           Ось картина єдинорога:
 
-          <img src="%{base_uri}/images/unicorn.png" width="520" height="520">
+          <img src="%{base_uri}/plugins/discourse-narrative-bot/images/unicorn.png" width="520" height="520">
 
           Якщо вона вам подобається (без сумнівно!) нажміть на кнопку :heart: вподобайки внизу поста, щоб сповістити мене про це.
 
@@ -240,11 +240,11 @@ uk:
 
       bookmark:
         instructions: |-
-          Якщо ви хочете дізнатись більше, виберіть <img src="%{base_uri}/images/font-awesome-ellipsis.png" width="16" height="16"> нижче  і <img src="%{base_uri}/images/font-awesome-bookmark.png" width="16" height="16"> **закладка цього приватного повідомлення**.  Якщо ви це зробите, для вас буде :gift: у майбутньому!
+          Якщо ви хочете дізнатись більше, виберіть <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-ellipsis.png" width="16" height="16"> нижче  і <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-bookmark.png" width="16" height="16"> **закладку цього приватного повідомлення**.  Якщо ви це зробите, для вас буде :gift: у майбутньому!
         reply: |-
           Відмінно! Тепер ви можете легко повернутися до нашої приватної бесіди в будь-який час, прямо з [вкладки закладок у вашому профілі](%{profile_page_url}/activity/bookmarks). Просто виберіть зображення профілю у верхньому правому куті &#8599;
         not_found: |-
-          Ох, я не бачу закладки в цій темі. Ви знайшли закладку під кожним повідомленням?  Використовуйте показати більше <img src="%{base_uri}/images/font-awesome-ellipsis.png" width="16" height="16"> щоб виявити додаткові дії, якщо це необхідно.
+          Ох, я не бачу закладки в цій темі. Ви знайшли закладку під кожним повідомленням?  Використовуйте показати більше <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-ellipsis.png" width="16" height="16"> щоб виявити додаткові дії, якщо це необхідно.
 
       emoji:
         instructions: |-
@@ -254,7 +254,7 @@ uk:
 
           - Введіть двокрапку <kbd>:</kbd>, а потім вкажіть ім'я emoji `:tada:`
 
-          - Натисніть кнопку emoji <img src="%{base_uri}/images/font-awesome-smile.png" width="16" height="16"> у редакторі або на мобільній клавіатурі і виберіть emoji-картинку
+          - Натисніть кнопку emoji <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-smile.png" width="16" height="16"> у редакторі або на мобільній клавіатурі і виберіть emoji-картинку
         reply: |-
           Це :sparkles: _emoji-смачно!_ :sparkles:
         not_found: |-
@@ -262,7 +262,7 @@ uk:
 
           Спробуйте набрати двокрапку, щоб активувати emoji-редактор, а потім наберіть перші кілька букв того, що ви хочете, наприклад, `:bird:`
 
-          Або натисніть emoji кнопку <img src="%{base_uri}/images/font-awesome-smile.png" width="16" height="16"> у редакторі.
+          Або натисніть emoji кнопку <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-smile.png" width="16" height="16"> у редакторі.
 
           (Якщо ви користуєтесь мобільним пристроєм, ви також можете ввести emoji безпосередньо з вашої клавіатури.)
 
@@ -284,21 +284,21 @@ uk:
 
           >  :imp: Я тут написав дещо неприємне
 
-          Я думаю, ви знаєте, що робити. **Позначте це повідомлення** <img src="%{base_uri}/images/font-awesome-flag.png" width="16" height="16"> як неприйнятне!
+          Я думаю, ви знаєте, що робити. **Позначте це повідомлення** <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-flag.png" width="16" height="16"> як неприйнятне!
         reply: |-
           [Наш персонал](/groups/staff) буде особисто сповіщений про вашу відмітку. Якщо достатньо членів спільноти позначають публікацію, вона буде автоматично прихована як застереження. (Так як я насправді не писав неприємний пост :angel:, я вилучив застереження щодо нього).
         not_found: |-
-          О ні, мій неприємний пост ще не був позначений. :worried: Ви можете позначити його як неприйнятний, використовуючи **прапорець** <img src="%{base_uri}/images/font-awesome-flag.png" width="16" height="16">? Не забувайте використовувати кнопку показати більше <img src="%{base_uri}/images/font-awesome-ellipsis.png" width="16" height="16">, щоб показати більше дій для кожного повідомлення.
+          О ні, мій неприємний пост ще не був позначений. :worried: Ви можете позначити його як неприйнятний, використовуючи **прапорець** <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-flag.png" width="16" height="16">? Не забувайте використовувати кнопку показати більше <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-ellipsis.png" width="16" height="16">, щоб показати більше дій для кожного повідомлення.
 
       search:
         instructions: |-
-          _Пссс_ … Я сховав сюрприз в цій темі. Якщо ви готові із ним зіткнутись, **виберіть значок пошуку** <img src="%{base_uri}/images/font-awesome-search.png" width="16" height="16"> у верхньому правому куті &#8599; щоб знайти його.
+          _Пссс_ … Я сховав сюрприз в цій темі. Якщо ви готові із ним зіткнутись, **виберіть значок пошуку** <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-search.png" width="16" height="16"> у верхньому правому куті &#8599; щоб знайти його.
 
           Спробуйте знайти термін "capy&#8203;bara" в цій темі
         hidden_message: |-
           Як ви пропустили цей capybara? :wink:
 
-          <img src="%{base_uri}/images/capybara-eating.gif"/>
+          <img src="%{base_uri}/plugins/discourse-narrative-bot/images/capybara-eating.gif"/>
 
           Ви помітили, що ви зараз повернулися на початок? Нагодуйте цю бідолашну голодну capybara **відповідаючи з `:herb:` emoji** і ви автоматично потрапите на кінець.
         reply: |-
@@ -310,7 +310,7 @@ uk:
 
           - Якщо у вас звичайна фізична :keyboard:, натисніть <kbd>?</kbd> щоб переглянути зручні комбінації клавіш.
         not_found: |-
-          Хм ... Здається у вас виникли проблеми. Вибачте. Ви шукали <img src="%{base_uri}/images/font-awesome-search.png" width="16" height="16"> термін **capy&#8203;bara**?
+          Хм ... Здається у вас виникли проблеми. Вибачте. Ви шукали <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-search.png" width="16" height="16"> термін **capy&#8203;bara**?
 
       end:
         message: |-
@@ -343,7 +343,7 @@ uk:
         not_found: |-
           Схоже, ви ще не відредагували [повідомлення](%{url}), яке я створив для вас. Можете спробувати ще раз?
 
-          Використовуйте <img src="%{base_uri}/images/font-awesome-pencil.png" width="16" height="16"> іконку, щод активувати редактор.
+          Використовуйте <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-pencil.png" width="16" height="16"> іконку, щод активувати редактор.
         reply: |-
           Чудова робота!
 
@@ -353,9 +353,9 @@ uk:
         instructions: |-
           Якщо ви хочете відкликати повідомлення, яке ви написали, ви можете його видалити.
 
-          **Видаліть** будь-яке із ваших повідомлень вище, використовуючи <img src="%{base_uri}/images/font-awesome-trash.png" width="16" height="16"> дію **видалення**. Не видаляйте першу публікацію!
+          **Видаліть** будь-яке із ваших повідомлень вище, використовуючи <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-trash.png" width="16" height="16"> дію **видалення**. Не видаляйте першу публікацію!
         not_found: |-
-         Я ще не бачу жодних видалених повідомлень? Пам'ятайте <img src="%{base_uri}/images/font-awesome-ellipsis.png" width="16" height="16"> показати більше розкриє <img src="%{base_uri}/images/font-awesome-trash.png" width="16" height="16"> дію видалення.
+         Я ще не бачу жодних видалених повідомлень? Пам'ятайте <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-ellipsis.png" width="16" height="16"> показати більше розкриє <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-trash.png" width="16" height="16"> дію видалення.
         reply: |-
           Ой! :boom:
 
@@ -366,9 +366,9 @@ uk:
         instructions: |-
           О ні! Схоже, я випадково видалив нове повідомлення, яке я щойно створив для вас.
 
-          Чи можете ви зробити мені послугу і <img src="%{base_uri}/images/font-awesome-rotate-left.png" width="16" height="16"> **відновити** його?
+          Чи можете ви зробити мені послугу і <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-rotate-left.png" width="16" height="16"> **відновити** його?
         not_found: |-
-          Виникли проблеми? Пам'ятайте <img src="%{base_uri}/images/font-awesome-ellipsis.png" width="16" height="16"> показати більше розкриє <img src="%{base_uri}/images/font-awesome-rotate-left.png" width="16" height="16"> дію відновлення.
+          Виникли проблеми? Пам'ятайте <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-ellipsis.png" width="16" height="16"> показати більше розкриє <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-rotate-left.png" width="16" height="16"> дію відновлення.
         reply: |-
           Фух, це було близько! Дякую, що пофіксили це :wink:
 
@@ -404,11 +404,11 @@ uk:
 
       poll:
         instructions: |-
-          Чи знаєте ви, що можете додати опитування до будь-якого повідомлення? Спробуйте скористатись <img src="%{base_uri}/images/font-awesome-gear.png" width="16" height="16"> інструментом у редакторі, щоб **створити опитування**.
+          Чи знаєте ви, що можете додати опитування до будь-якого повідомлення? Спробуйте скористатись <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-gear.png" width="16" height="16"> інструментом у редакторі, щоб **створити опитування**.
         not_found: |-
           Упс! У вашій відповіді не було жодного опитування.
 
-          Використовуйте <img src="%{base_uri}/images/font-awesome-gear.png" width="16" height="16"> значок шестірні в редакторі або скопіюйте та вставте дане опитування у наступну відповідь:
+          Використовуйте <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-gear.png" width="16" height="16"> значок шестірні в редакторі або скопіюйте та вставте дане опитування у наступну відповідь:
 
           ```text
           [poll]
@@ -432,12 +432,12 @@ uk:
           - Коли ваш пост потребує великої кількості додаткових відомостей, які можуть відволікати, читаючи все одразу.
 
           [details=Виберіть це, щоб побачити, як це працює!]
-          1. Виберіть <img src="%{base_uri}/images/font-awesome-gear.png" width="16" height="16"> значок шестірні в редакторі.
+          1. Виберіть <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-gear.png" width="16" height="16"> значок шестірні в редакторі.
           2. Виберіть "Сховати подробиці".
           3. Змініть подробиці і додайте свій контент.
           [/details]
 
-          Ви можете використати <img src="%{base_uri}/images/font-awesome-gear.png" width="16" height="16"> значок шестірні в редакторі щоб додати розділ деталей до наступної відповіді?
+          Ви можете використати <img src="%{base_uri}/plugins/discourse-narrative-bot/images/font-awesome-gear.png" width="16" height="16"> значок шестірні в редакторі щоб додати розділ деталей до наступної відповіді?
         not_found: |-
           Виникли проблеми з створенням віджета деталей? Спробуйте включити наступне у наступну відповідь:
 
