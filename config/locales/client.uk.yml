@@ -2431,6 +2431,7 @@ uk:
     badges:
       earned_n_times:
         one: "Зароблено значок 1 раз"
+        few: "Зароблено значок %{count} разів"
         other: "Зароблено значок %{count} разів"
       granted_on: "Надано %{date}"
       others_count: "Інші з цим значком (%{count})"
@@ -2439,9 +2440,11 @@ uk:
       multiple_grant: "Ви можете заробити його декілька разів"
       badge_count:
         one:   "1 значок"
+        few: "%{count} значки"
         other: "%{count} значків"
       more_badges:
         one:   "+1e"
+        few: "+%{count}"
         other: "+%{count}"
       granted:
         one:   "1 зароблено"
