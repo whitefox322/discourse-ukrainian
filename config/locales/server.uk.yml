@@ -602,7 +602,7 @@ ru:
       email_title: 'Ваше повідомлення в темі "%{title}"'
       email_body: "%{link}\n\n%{message}\n"
     notify_moderators:
-      title: "Інша причина"
+      title: 'Інша причина'
       description: 'Це повідомлення вимагає модерації з іншої причини, яка відсутня в списку вище.'
       long_form: 'відзначили це для модерації'
       email_title: 'Повідомлення в темі "%{title}" вимагає модерації'
@@ -636,7 +636,7 @@ ru:
       description: 'Ця тема може бути визнана образливою або порушує <a href="/guidelines">правила поведінки на сайті</a>.'
       long_form: 'відмічено як недоречне'
     notify_moderators:
-      title: "Інше"
+      title: 'Інше'
       long_form: 'скарга модератору'
       email_title: 'Тема "%{title}" вимагає уваги модератора'
       email_body: "%{link}\n\n%{message}"
